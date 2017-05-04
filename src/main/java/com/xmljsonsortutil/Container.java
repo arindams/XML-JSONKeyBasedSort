@@ -5,7 +5,7 @@ package com.xmljsonsortutil;
  */
 public class Container {
 
-    public static String SORT_KEY_SEPERATOR = "=SORT_KEY_SEPERATOR=";
+    public static String SORT_KEY_SEPERATOR = "==SORT_KEY_SEPERATOR==";
 
     public String getSortData() {
         return sortData;
