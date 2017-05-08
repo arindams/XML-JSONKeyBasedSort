@@ -23,4 +23,9 @@ public class Container {
         this.json_xml = data;
     }
 
+    public String getJson_xml_2() {
+        return json_xml;
+    }
+
+
 }
